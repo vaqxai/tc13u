@@ -1,6 +1,8 @@
 # tc13u
 TriClonHel V13.u (A better playermodel base for Garry's Mod)
 
+READ THE TERMS BEFORE DOING ANYTHING!!!
+
 ## Changes
 - Better UVs
 - Unified UVs
