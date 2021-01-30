@@ -1,0 +1,18 @@
+WARNING!
+
+It is not guaranteed that all bodygroups have a corresponding texture, 
+or that all textures are named in such a way that make it easily distinguishable 
+which texture belongs to which bodygroup.
+
+The bodygroup collection was assembled from various sources, and is just a general collection of
+"raw data" you can use to create your models.
+
+The only bodygroups i can guarantee the integrity of is the ARC-PAC, because it was made by me.
+
+Also most of them are off-position and need repositioning.
+In other words, either don't use them or fix them first.
+TC12 import bodygroups should work fine though.
+
+DO NOT MESSAGE ME ABOUT MISSING TEXTURES!
+PLEASE ADD A PULL REQUEST IF YOU FIND/MAKE ANY MORE BODYGROUPS/TEXTURES AND WOULD LIKE TO ADD/SHARE THEM HERE
+THE BIGGER THIS COLLECTION IS THE BETTER FOR EVERYONE
