@@ -7,6 +7,8 @@ TriClonHel V13.u (A better playermodel base for Garry's Mod)
 - Better base textures
 - Smaller texture size
 - Better leg mesh
+- Improved bodygroups
+- New ARC bodygroups
 
 ## Usage
 Drop files from Addon into your Garry's Mod Addons folder.
