@@ -30,6 +30,11 @@ $bodygroup "arc_armor" {
 	blank
 }
 
+$bodygroup "arc_shoes" {
+	studio bodygroups/arcpac/arc_shoes.smd
+	blank
+}
+
 $bodygroup "arc_pauldron" {
 	studio bodygroups/arcpac/arc_pauldron.smd
 	blank

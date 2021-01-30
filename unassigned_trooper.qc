@@ -1,6 +1,6 @@
 // Created by Masterworks Solutions, TriClonHel V13.u.A""
 
-$modelname "helios/tc13u/unsassigned/trooper/trooper.mdl"
+$modelname "helios/tc13u/unassigned/trooper/trooper.mdl"
 
 $model "body" "body.smd"
 $bodygroup "helmet" {
